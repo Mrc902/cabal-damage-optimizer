@@ -1,0 +1,19 @@
+# PyInstaller build directories and specs
+build/
+dist/
+*.spec
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE & Editor configurations
+.vscode/
+.idea/
