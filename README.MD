@@ -15,7 +15,7 @@ An advanced damage optimization tool and simulator built with Python and **Custo
 
 ## Installation
 ```bash
-git clone [https://github.com/seu-usuario/cabal-damage-optimizer.git](https://github.com/seu-usuario/cabal-damage-optimizer.git)
+git clone [https://github.com/Mrc902/cabal-damage-optimizer](https://github.com/Mrc902/cabal-damage-optimizer)
 cd cabal-damage-optimizer
 pip install customtkinter
 python main.py
